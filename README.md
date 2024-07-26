@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is Chia Shuen
+#### A Computer Science Student
+
+
+Skills: C / Java / Oracle SQL / HTML / CSS / JavaScript
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
 **ShuEnHo/ShuEnHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
