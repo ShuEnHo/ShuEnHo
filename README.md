@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Chia Shuen
-#### A Computer Science Student
+#### A Computer Science Student who is new to GitHub !
+#### Still learning how to make my profile look nice hmm
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuEnHo)](https://github.com/anuraghazra/github-readme-stats)
 
