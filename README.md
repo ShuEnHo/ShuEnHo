@@ -1,4 +1,4 @@
-### Hi there 👋, Chia Shuen Ho
+### Hi there 👋, I'm Chia Shuen ^^
 #### Computer Science Student 
 I'm a computer science student with a diploma ~ 
 I enjoy the journey of learning, coding, and developing.
