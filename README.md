@@ -1,12 +1,17 @@
-## Hi there 👋 my name is Chia Shuen
-#### A Computer Science Student who is new to GitHub !
-#### Still learning how to make my profile look nice hmm
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuEnHo)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, Chia Shuen Ho
+#### Computer Science Student 
+I'm a computer science student with a diploma ~ 
+I enjoy the journey of learning, coding, and developing.
+Looking forward to more opportunities to learn new things to enhance my skills(0.0) ;
 
 Skills: C / Java / Oracle SQL / HTML / CSS / JavaScript
 
 - 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShuEnHo)  
+
+
 
 
 <!--
