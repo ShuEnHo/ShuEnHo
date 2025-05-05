@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chia Shuen ^^
+### Hi there 👋, I'm Selena ^^
 #### Computer Science Student 
 I'm a computer science student with a diploma ~ 
 I enjoy the journey of learning, coding, and developing.
